@@ -1,5 +1,5 @@
-Project Name - College Connect Hub
-Team Name - Root System
+#Project Name - College Connect Hub
+#Team Name - Root System
 Strong solutions are built on interconnected foundations. Like a root system, our team thrives on deep collaboration, shared resources, and resilient design. We grow ideas from the ground up, ensuring they are stable, scalable, and sustainable.
 Team Members - Sudiksha(Team Lead)
                Varnika
