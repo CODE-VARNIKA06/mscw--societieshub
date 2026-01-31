@@ -8,7 +8,7 @@ Team Members - Sudiksha(Team Lead)
 🚀 Live Demo :
 https://college-connect-hub-main-1-zip--mscwproject.replit.app/
 
-🧠 Problem Statemt :
+🧠 Problem Statement :
  In many colleges, information about clubs and societies is scattered across multiple platforms such as social media, notice boards, and word of mouth. This makes it difficult for students to keep track of all societies, leading them to miss important opportunities like recruitment forms, event registrations, and announcements. The lack of a centralized and easily accessible platform creates information gaps and reduces student participation. There is a need for a single, organized digital space that provides complete and timely information about all college societies.
 
 
